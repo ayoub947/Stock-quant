@@ -1,2 +1,3 @@
-# Stock trading strategy
+## Stock trading strategy
 
+#Strategy
